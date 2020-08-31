@@ -1,2 +1,2 @@
 # jwhamilt.github.io
-A description of my work
+This is a Github Pages site which I am using to showcase my work.
